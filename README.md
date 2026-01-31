@@ -16,4 +16,6 @@ My Day 1–100 Python learning journey with daily projects | 100DaysOfCode
 - Day 012 – Number Guessing Game
 - Day 013 – Debugging
 - Day 014 – Higher Lower Game 🎮
+- Day 015 – Coffee Machine
+
 
