@@ -1,4 +1,4 @@
-# Day 001 – Band Name Generator 🎸
+# Day 001 : Band Name Generator 🎸
 
 This was my first mini project while starting the **100 Days of Code – Python** journey.
 
