@@ -1,4 +1,4 @@
-# Day 4 – Rock Paper Scissors 👇
+# Day 4 : Rock Paper Scissors 👇
 
 ## 📌 Project Description :
 A Python implementation of the classic Rock, Paper, Scissors game against the computer.
