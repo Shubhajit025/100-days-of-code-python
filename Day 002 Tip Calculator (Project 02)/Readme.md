@@ -5,10 +5,10 @@ A simple Python program that calculates how much each person should pay after sp
 
 ## 🧠 Concepts Used :
 - Variables,
-- Data types,
-- Type conversion,
-- Arithmetic operations,
-- User input.
+- Data types - `str`, `int`, `float`, `bool`,
+- Type conversion (mainly used `float`),
+- Arithmetic operations `+`, `*` , `/` `-`,
+- User input `input()`.
 
 ## 🚀 What I Learned :
 - How to work with numbers and calculations.
