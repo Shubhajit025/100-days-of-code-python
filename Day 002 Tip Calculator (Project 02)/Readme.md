@@ -14,3 +14,6 @@ A simple Python program that calculates how much each person should pay after sp
 - How to work with numbers and calculations.
 - Converting user input into usable data types.
 - Writing simple but useful programs.
+
+📅 Day 2 of learning Python :  
+🐍 Course: 100 Days of Code – Python Bootcamp.
