@@ -38,5 +38,9 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 013 – Debugging
 - Day 014 – Higher Lower Game 🎮
 - Day 015 – Coffee Machine
+- Day 016 – Object Oriented Programming in Python(OOP) concept and Coffee Machine with OOP
+- Day 017 – Deep dive into OOP and The Quiz Project
+
+
 
 
