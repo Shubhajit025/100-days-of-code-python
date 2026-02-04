@@ -1,4 +1,4 @@
-# Day 17 – Python OOP Basics & Quiz Project 🎯👇
+# Day 17 : Python OOP Basics & Quiz Project 🎯👇
 
 Today I focused on learning the fundamentals of **Object-Oriented Programming (OOP)** in Python and applied those concepts by completing a **Quiz Project**.
 
