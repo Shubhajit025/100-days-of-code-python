@@ -8,7 +8,7 @@ class QuizBrain:
 
     def still_has_question(self):
         return self.question_number < len(self.question_list)
-        # Upper code and the beneath code writen are same 👇👆.
+        # Upper code and the beneath code writen are same as per usage of while loop in main.py only 👇👆.
         # if self.question_number < len(self.question_list):
         #     return True
         # else:
@@ -31,4 +31,5 @@ class QuizBrain:
         print(f"The correct answer was: {correct_answer}")
         print(f"Your current score is: {self.score}/{self.question_number}")
         print("\n")
+
 
