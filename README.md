@@ -41,6 +41,6 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 016 – Object Oriented Programming in Python(OOP) concept and Coffee Machine with OOP
 - Day 017 – Deep dive into OOP and The Quiz Project
 - Day 018 – Turtle Grphics and GUI & Hirst Painting project
-
+- Day 019 – Turtle Racing Game
 
 
