@@ -42,5 +42,6 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 017 – Deep dive into OOP and The Quiz Project
 - Day 018 – Turtle Grphics and GUI & Hirst Painting project
 - Day 019 – Turtle Racing Game
-
+- Day 020 & 021 - Snake game (Part 1 & 2 )
+- Day 022 - Pong Game
 
