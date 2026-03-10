@@ -45,3 +45,6 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 020 & 021 - Snake game (Part 1 & 2 )
 - Day 022 - Pong Game
 - Day 023 - Turtle Crossing Game ( Capstone Project )
+- Day 024 - Mail Merge Project
+- Day 025 - US State and India State game
+
