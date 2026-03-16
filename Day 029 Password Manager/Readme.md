@@ -27,7 +27,7 @@ Password Manager is a GUI-based password manager that lets you store, generate, 
 - How to build a **multi-widget Tkinter GUI** using grid layout
 - Using **Canvas** to display images inside a Tkinter window
 - Writing and appending data to a **local `.txt` file** in Python
-- Using **`pyperclip`** to copy text to the system clipboard programmatically
+- Using **`pyperclip`** to copy text to the system clipboard programmatically and also learned about `.join()` method to join many strings
 - Implementing **`messagebox`** for both info alerts and OK/Cancel confirmations
 - Generating **secure random passwords** by combining shuffled character lists
 - Pre-filling Entry fields with **`.insert()`** for a better UX
