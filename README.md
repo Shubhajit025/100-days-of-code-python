@@ -47,4 +47,9 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 023 - Turtle Crossing Game ( Capstone Project )
 - Day 024 - Mail Merge Project
 - Day 025 - US State and India State game
+- Day 026 - NATO Phonetic Alphabet
+- Day 027 - Miles to KM Converter App
+- Day 028 - Pomodoro App
+- Day 029 - Password Manager App
+- Day 030 - Password Manager App - With Jason
 
