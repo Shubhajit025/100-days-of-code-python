@@ -17,14 +17,14 @@ with open("quotes.txt") as file:
 random_quote = random.choice(data)
 
 # ---------- EMAIL SENDER ---------- #
-sender_email = "ethicszero015@gmail.com"
-sender_pass = "wvlp xppf dhul tptm"
+sender_email = "my_mail@gmail.com"
+sender_pass = "my_password"
 if weekday == 0:
     with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
         connection.starttls()
         connection.login(user=sender_email, password=sender_pass)
         connection.sendmail(
             from_addr=sender_email,
-            to_addrs="sharmashubhajit025@gmail.com",
+            to_addrs="tosendmail@gmail.com",
             msg=f"Subject:Daily Motivational Quote.\n\n{random_quote}"
         )
