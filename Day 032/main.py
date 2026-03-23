@@ -1,7 +1,7 @@
 # import smtplib
 #
-# my_email = "ethicszero015@gmail.com"
-# password = "wvlp xppf dhul tptm"
+# my_email = "mail@gmail.com"
+# password = "password"
 #
 # # Without 'with' keyword :
 # # connection = smtplib.SMTP("smtp.gmail.com", port=587)
@@ -9,7 +9,7 @@
 # # connection.login(user=my_email, password=password)
 # # connection.sendmail(
 # #     from_addr=my_email,
-# #     to_addrs="ethicszero15@yahoo.com",
+# #     to_addrs="mymail@yahoo.com",
 # #     msg="Subject:Hello\n\nThis is the body of my email."
 # # )
 # # connection.close()
@@ -21,7 +21,7 @@
 #     connection.login(user=my_email, password=password)
 #     connection.sendmail(
 #         from_addr=my_email,
-#         to_addrs="ethicszero15@yahoo.com",
+#         to_addrs="mymail@yahoo.com",
 #         msg="Subject:Hello Test 1\n\nThis is the body of my email for testing."
 #     )
 
@@ -40,5 +40,5 @@ print(now)
 print(month)
 print(day_of_the_week)
 
-date_of_birth = dt.datetime(year=1996, month=12, day=15)
+date_of_birth = dt.datetime(year=2002, month=02, day=10)
 print(date_of_birth)
