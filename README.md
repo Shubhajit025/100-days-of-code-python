@@ -52,4 +52,9 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 028 - Pomodoro App
 - Day 029 - Password Manager App
 - Day 030 - Password Manager App - With Jason
-
+- Day 031 - Flash Card App - Capstone Project
+- Day 032 - Automated Birthday Wisher
+- Day 033 - ISS Overhead Notifier & Kayne Quote
+- Day 034 - Quizzler App
+- Day 035 - Rain Alert App (V 1.0)
+- 
