@@ -56,5 +56,6 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 032 - Automated Birthday Wisher
 - Day 033 - ISS Overhead Notifier & Kayne Quote
 - Day 034 - Quizzler App
-- Day 035 - Rain Alert App (V 1.0)
-- 
+- Day 035 - Rain Alert App ( v-1.0 )
+- Day 036 - Stock Trading News Alert ( v-1.0 )
+
