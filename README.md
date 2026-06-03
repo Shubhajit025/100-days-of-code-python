@@ -58,6 +58,6 @@ My Day 1–100 Python learning journey with daily projects.
 - Day 034 - Quizzler App
 - Day 035 - Rain Alert App ( v-1.0 )
 - Day 036 - Stock Trading News Alert ( v-1.0 )
-- From Day 037 to 044 all projects I lost due to sudden technical problem in my system. Sorry for the Inconvinience.
+- From Day 037 to 044 all projects I lost due to sudden technical problem in my system. Sorry for the Inconvinience. --> I will work on those projects and will upload here.
 - Day 045 - Top 100 Movies we must watch ( Web Scrap to make a txt file )
 - 
